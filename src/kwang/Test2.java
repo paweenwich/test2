@@ -9,7 +9,8 @@ import acm.program.*;
 //import acm.graphics.GLabel;
 //import acm.graphics.GOval;
 //import acm.graphics.GRect;
-//.program.*;
+//import
+
 
 	   
 public class Test2 extends GraphicsProgram  {
