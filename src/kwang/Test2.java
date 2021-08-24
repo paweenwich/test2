@@ -11,7 +11,6 @@ import acm.program.*;
 //import acm.graphics.GRect;
 //import acm.program.*;
 
-//2 	1234   
 	   
 public class Test2 extends GraphicsProgram  {
    public static final double PHI = 1.618;
